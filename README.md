@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaharyaar Ansari</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img align="right"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6BAZapEOZHmgmWGAmYztiQ_hxI02UeID3Q&usqp=CAU" alt="shaharyaar" />
+<img align="right"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU" alt="shaharyaar" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharyaaransari&label=Profile%20views&color=0e75b6&style=flat" alt="shaharyaaransari" /> </p>
 
 - 🌱 I’m currently learning **MERN stacks**
